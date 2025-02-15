@@ -1,0 +1,24 @@
+# Ignore Python compiled files  
+__pycache__/  
+*.py[cod]  
+*.so  
+
+# Ignore virtual environment  
+venv/  
+.env  
+
+# Ignore logs and database  
+*.log  
+*.sqlite3  
+
+# Ignore VS Code settings  
+.vscode/  
+
+# Ignore OS-specific files  
+.DS_Store  
+Thumbs.db  
+
+# Ignore dependencies  
+node_modules/  
+
+.dockerignore
